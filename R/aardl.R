@@ -60,21 +60,21 @@
 #'
 #' @references
 #' Sam, C. Y., McNown, R. and Goh, S. K. (2019). An augmented autoregressive
-#' distributed lag bounds test for cointegration. \emph{Economics Letters},
-#' 174, 47--50. \doi{10.1016/j.econlet.2018.12.007}
+#' distributed lag bounds test for cointegration. \emph{Economic Modelling},
+#' 80, 130--141. \doi{10.1016/j.econmod.2018.11.001}
 #'
 #' McNown, R., Sam, C. Y. and Goh, S. K. (2018). Bootstrapping the Autoregressive
 #' Distributed Lag Test for Cointegration. \emph{Applied Economics}, 50(13),
-#' 1509--1521. \doi{10.1080/00036846.2017.1366150}
+#' 1509--1521. \doi{10.1080/00036846.2017.1366643}
 #'
-#' Bertelli, S., Vacca, G. and Zoia, M. G. (2022). Bootstrapping the ARDL
-#' Bounds Cointegration Test: A Conditional Approach. \emph{Economics Letters},
-#' 216, 110662. \doi{10.1016/j.econlet.2022.110662}
+#' Bertelli, S., Vacca, G. and Zoia, M. G. (2022). Bootstrap cointegration tests in
+#' ARDL models. \emph{Economic Modelling},
+#' 116, 105987. \doi{10.1016/j.econmod.2022.105987}
 #'
 #' Yilanci, V., Bozoklu, S. and Gorus, M. S. (2020). Are OECD Countries
 #' Converging in Per Capita Healthcare Expenditures? Evidence from a Fourier
 #' LM Unit Root Test. \emph{Emerging Markets Finance and Trade}, 56(3), 642--655.
-#' \doi{10.1080/1540496X.2019.1594204}
+#'
 #'
 #' Shin, Y., Yu, B. and Greenwood-Nimmo, M. (2014). Modelling Asymmetric
 #' Cointegration and Dynamic Multipliers in a Nonlinear ARDL Framework.

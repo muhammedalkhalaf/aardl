@@ -84,13 +84,13 @@ print(result)
 }
 \references{
 Sam, C. Y., McNown, R. and Goh, S. K. (2019). An augmented autoregressive
-distributed lag bounds test for cointegration. \emph{Economics Letters},
-174, 47--50. \doi{10.1016/j.econlet.2018.12.007}
+distributed lag bounds test for cointegration. \emph{Economic Modelling},
+80, 130--141. \doi{10.1016/j.econmod.2018.11.001}
 
 McNown, R., Sam, C. Y. and Goh, S. K. (2018). Bootstrapping the
 Autoregressive Distributed Lag Test for Cointegration.
 \emph{Applied Economics}, 50(13), 1509--1521.
-\doi{10.1080/00036846.2017.1366150}
+\doi{10.1080/00036846.2017.1366643}
 
 Shin, Y., Yu, B. and Greenwood-Nimmo, M. (2014). Modelling Asymmetric
 Cointegration and Dynamic Multipliers in a Nonlinear ARDL Framework.

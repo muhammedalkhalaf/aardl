@@ -7,11 +7,11 @@ Authors@R: person("Muhammad", "Alkhalaf", email = "muhammedalkhalaf@gmail.com",
     comment = c(ORCID = "0009-0002-2677-9246"))
 Description: Implements the Augmented Autoregressive Distributed Lag (A-ARDL)
     bounds cointegration framework of Sam, McNown and Goh (2019)
-    <doi:10.1016/j.econlet.2018.12.007>. The package provides eight model
+    <doi:10.1016/j.econmod.2018.11.001>. The package provides eight model
     variants: standard ARDL, bootstrap ARDL following McNown, Sam and Goh
-    (2018) <doi:10.1080/00036846.2017.1366150> and Bertelli, Vacca and Zoia
-    (2022) <doi:10.1016/j.econlet.2022.110662>, Fourier ARDL following
-    Yilanci, Bozoklu and Gorus (2020) <doi:10.1080/1540496X.2019.1594204>,
+    (2018) <doi:10.1080/00036846.2017.1366643> and Bertelli, Vacca and Zoia
+    (2022) <doi:10.1016/j.econmod.2022.105987>, Fourier ARDL following
+    Yilanci, Bozoklu and Gorus (2020),
     and their nonlinear (NARDL) counterparts following Shin, Yu and
     Greenwood-Nimmo (2014) <doi:10.1007/978-1-4899-8008-3_9>. The augmented
     three-test framework (F-overall, t-DV, F-independent) resolves the
