@@ -11,7 +11,7 @@
   "access_right": "open",
   "related_identifiers": [
     {
-      "identifier": "https://cran.r-project.org/package=aardl",
+      "identifier": "https://github.com/muhammedalkhalaf/aardl",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
